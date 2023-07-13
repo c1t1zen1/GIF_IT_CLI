@@ -33,7 +33,7 @@ The images should all be the same dimension.
 
 # Example command line:
 
-            "python.exe" GIF_IT_CLI_vBeta.py folder_path output_name -speed=200 -dissolve=10 -watermark "c1t1zen" -date -font "arial.ttf" -size=72 -location=TOP -dither FLOYDSTEINBERG,ORDERED,RASTERIZE -colors=64 -optimize -quality=25 -resample 0.8 -open
+            GIF_IT_CLI_v_028.exe folder_path output_name -speed=200 -dissolve=10 -watermark "c1t1zen" -date -font "arial.ttf" -size=72 -location=TOP -dither FLOYDSTEINBERG,ORDERED,RASTERIZE -colors=64 -optimize -quality=25 -resample 0.8 -open
 
 # Mandatory Commands:
 

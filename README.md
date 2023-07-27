@@ -4,7 +4,7 @@
 
                             !!! BETA RELEASE - GIF IT !!!
 
-GIF IT CLI - code by C1t1zen with CodeGPT in VSCode on Windows 10 - July 13 2023
+GIF IT CLI - code by C1t1zen with CodeGPT in VSCode on Windows 10 - July 26 2023
 
 THIS IS A BETA RELEASE USE WITH CAUTION ALWAYS MAKE BACKUPS OF YOUR IMAGES FIRST 
 
@@ -86,7 +86,7 @@ Please report any issues thanks!
 
 THIS IS A BETA RELEASE USE WITH CAUTION ALWAYS MAKE BACKUPS OF YOUR IMAGES FIRST !
 - https://c1t1zen.com/
-GIF IT CLI - code by C1t1zen with CodeGPT in VSCode on Windows 10 - Beta V 023 - July 13 2023
+GIF IT CLI - code by C1t1zen with CodeGPT in VSCode on Windows 10 - Beta V 028 - July 26 2023
 
                             !!! BETA RELEASE - GIF IT !!!
 
